@@ -9,3 +9,5 @@ supports multiple line comments, ex:
      """
      this is multiple line comment in python
      """
+
+in-built file picker to select multiple files from different directories
